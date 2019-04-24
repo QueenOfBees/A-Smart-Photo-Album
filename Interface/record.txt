@@ -1,0 +1,1 @@
+["http://yyb.gtimg.com:8080/aiplat/static/ai-demo/large/tag-1.jpg","http://yyb.gtimg.com:8080/aiplat/static/ai-demo/large/tag-2.jpg","http://yyb.gtimg.com:8080/aiplat/static/ai-demo/large/tag-3.jpg","http://yyb.gtimg.com:8080/aiplat/static/ai-demo/large/tag-4.jpg","http://yyb.gtimg.com:8080/aiplat/static/ai-demo/large/tag-5.jpg"]

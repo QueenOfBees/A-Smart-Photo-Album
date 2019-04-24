@@ -1,0 +1,121 @@
+{
+  "result": [
+    {
+      "index": 1,
+      "isDetectable": true,
+      "result": [
+        {
+          "tag": "\u76c6\u683d",
+          "class": [
+            "\u690d\u7269"
+          ],
+          "probability": 61.13,
+          "area_proportion": 0.6566666666666666
+        }
+      ],
+      "suggestion": {
+        "tag": "\u76c6\u683d",
+        "class": [
+          "\u690d\u7269"
+        ]
+      },
+      "who": null
+    },
+    {
+      "index": 2,
+      "isDetectable": true,
+      "result": [
+        {
+          "tag": "\u4eba",
+          "class": [
+            "\u4eba\u7269"
+          ],
+          "probability": 38.35,
+          "area_proportion": 0.000761348944216655
+        },
+        {
+          "tag": "\u4eba",
+          "class": [
+            "\u4eba\u7269"
+          ],
+          "probability": 56.23,
+          "area_proportion": 0.0007308949864479888
+        }
+      ],
+      "suggestion": {
+        "tag": "\u4eba",
+        "class": [
+          "\u4eba\u7269"
+        ]
+      },
+      "who": null
+    },
+    {
+      "index": 3,
+      "isDetectable": false,
+      "result": null,
+      "suggestion": null,
+      "who": null
+    },
+    {
+      "index": 4,
+      "isDetectable": true,
+      "result": [
+        {
+          "tag": "\u82b1\u74f6",
+          "class": [
+            "\u5bb6\u5c45"
+          ],
+          "probability": 73.2,
+          "area_proportion": 0.084312106918239
+        }
+      ],
+      "suggestion": {
+        "tag": "\u82b1\u74f6",
+        "class": [
+          "\u5bb6\u5c45"
+        ]
+      },
+      "who": null
+    },
+    {
+      "index": 5,
+      "isDetectable": true,
+      "result": [
+        {
+          "tag": "\u76c6\u683d",
+          "class": [
+            "\u690d\u7269"
+          ],
+          "probability": 36.31,
+          "area_proportion": 0.29857333960544497
+        },
+        {
+          "tag": "\u6c99\u53d1",
+          "class": [
+            "\u5bb6\u5c45"
+          ],
+          "probability": 99.08,
+          "area_proportion": 0.24590597712639287
+        },
+        {
+          "tag": "\u7897",
+          "class": [
+            "\u9910\u5177",
+            "\u5bb6\u5c45"
+          ],
+          "probability": 48.63,
+          "area_proportion": 0.006210860553317849
+        }
+      ],
+      "suggestion": {
+        "tag": "\u7897",
+        "class": [
+          "\u9910\u5177",
+          "\u5bb6\u5c45"
+        ]
+      },
+      "who": null
+    }
+  ]
+}
