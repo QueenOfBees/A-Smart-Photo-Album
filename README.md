@@ -1,7 +1,7 @@
 # A-Smart-Photo-Album
 智能相册
 ## 设计思路：
-使用python的多进程进行预测，协程进行下载，多个进程和请求分发器之间使用了socket通信（sockpair)。
+使用python的多进程进行预测，使用协程gevent进行图片下载，多个进程和请求分发器之间使用了socket通信（sockpair)。
 图像检测识别使用了Image AI库:<a href="https://github.com/OlafenwaMoses/ImageAI">ImageAI</a>
 ## 主要的文件：
 <ol>
